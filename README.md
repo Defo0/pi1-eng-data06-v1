@@ -86,6 +86,9 @@ A modo de ejemplo voy a detallar las siguientes consultas segun lo requerido:
 **`Video`**: He realizado un video realizando las transformaciones y explicando como realizar las consultas desde la API
 
 
+https://youtu.be/oSdyokbRH4w
+
+
 
 <br/>
 
